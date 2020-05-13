@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-zebraprintwifi",
+  "version": "0.0.1",
+  "description": "Cordova Plugin for Zebra WiFi Print",
+  "cordova": {
+    "id": "cordova-plugin-zebraprintwifi",
+    "platforms": [
+      "android"
+    ]
+  },
+  "main": "www/zebraprintwifi.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/templatetuners/cordova-plugin-zebraprintwifi.git"
+  },
+  "keywords": [
+    "printer",
+    "citizen",
+    "label",
+    "qr",
+    "barcode",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [{
+    "name": "cordova",
+    "version": ">=3.0.0"
+  }],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Adrian Axinte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/templatetuners/cordova-plugin-zebraprintwifi/issues"
+  },
+  "homepage": "https://github.com/templatetuners/cordova-plugin-zebraprintwifi#readme"
+}
