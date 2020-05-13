@@ -18,5 +18,6 @@
             </feature>
         </config-file>
         <source-file src="src/android/zebraprintwifi.java" target-dir="src/com/justapplications/cordova/plugin" />
+        <source-file src="src/android/ZSDK_ANDROID_API.jar" target-dir="libs" />
     </platform>
 </plugin>

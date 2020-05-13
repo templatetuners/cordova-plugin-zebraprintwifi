@@ -21,17 +21,19 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "engines": [{
-    "name": "cordova",
-    "version": ">=3.0.0"
-  }],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
   "author": "Adrian Axinte",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/templatetuners/cordova-plugin-zebraprintwifi/issues"
   },
-  "homepage": "https://github.com/templatetuners/cordova-plugin-zebraprintwifi#readme"
+  "homepage": "https://github.com/templatetuners/cordova-plugin-zebraprintwifi#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
