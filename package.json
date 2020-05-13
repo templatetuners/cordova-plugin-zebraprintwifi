@@ -14,10 +14,9 @@
     "url": "git+https://github.com/templatetuners/cordova-plugin-zebraprintwifi.git"
   },
   "keywords": [
-    "printer",
-    "citizen",
+    "zebra",
     "label",
-    "qr",
+    "print",
     "barcode",
     "ecosystem:cordova",
     "cordova-android"

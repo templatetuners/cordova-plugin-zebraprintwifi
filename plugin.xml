@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-zebraprintwifi" version="0.0.1">
-    <name>CLSPrinter</name>
+    <name>zebraprintwifi</name>
     <description>Cordova Plugin for Zebra WiFi Print</description>
     <license>Apache 2.0</license>
-    <keywords>cordova,android,citizen,CL-S521,printer,label,qr,barcode</keywords>
+    <keywords>cordova,android,zebra,print,label,barcode</keywords>
     <repo>https://github.com/templatetuners/cordova-plugin-zebraprintwifi.git</repo>
     <engines>
         <engine name="cordova" version=">=3.0.0"/>
